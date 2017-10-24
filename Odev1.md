@@ -16,7 +16,10 @@ kullandığımız kaynakçalar belirtilmiştir.
 
 ## Kaynakçalar
 1-)https://physics.stackexchange.com/questions/88826/does-the-weight-of-an-hourglass-change-when-sands-are-falling-inside
+
 2-)https://www.youtube.com/watch?v=JIVrQQ5jRlc
+
 3-)http://aapt.scitation.org/doi/full/10.1119/1.4973527
+
 4-)http://demoweb.physics.ucla.edu/content/110-weight-hourglass
 
