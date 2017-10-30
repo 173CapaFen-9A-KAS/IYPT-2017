@@ -6,7 +6,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  Zamanı Tartmak(Weighing Time)
 ## Özet
-Öncelikle yapacağımız projenin adı "Weighing Time" yani Zamanı Tartmak bu projede malzemelerimiz terazi veya hassas tartı ve bir kum saati.
+Öncelikle yapacağımız projenin adı "Weighing Time" yani Zamanı Tartmak. Bu projede kullancağımız malzemeler şöyle: terazi,lazer,ayna ve bir kum saati.
 Bu projede amacımız kum saatinin akarken ağırlığının değiştiğini gözlemlemek ve bunu açıklamaktır.
 İlk olarak bir kum saati terazinin bir kefesine koyulacak ardından kum saati ve içindeki kumun toplam ağırlığı ile aynı gelecek olan
 ağırlıklar da diğer kefeye koyulacak. Terazinin ortasındaki çıkıntıya bir ayna takılacak ve tam karşına bir lazer konulacak
