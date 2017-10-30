@@ -9,9 +9,9 @@ Sınıf | Öğrenci İsmi  | Numara
 Öncelikle yapacağımız projenin adı "Weighing Time" yani Zamanı Tartmak. Bu projede kullancağımız malzemeler şöyle: terazi,lazer,ayna ve bir kum saati.
 Bu projede amacımız kum saatinin akarken ağırlığının değiştiğini gözlemlemek ve bunu açıklamaktır.
 İlk olarak bir kum saati terazinin bir kefesine koyulacak ardından kum saati ve içindeki kumun toplam ağırlığı ile aynı gelecek olan
-ağırlıklar da diğer kefeye koyulacak. Terazinin ortasındaki çıkıntıya bir ayna takılacak ve tam karşına bir lazer konulacak
-(Bunu yapmamızdaki amaç terazideki hareketi lazerin aynadan bir zemine yansıması ile oluşan hareketi gözlemlemek ve kağıda aktarmak.).
-Daha sonra kum saati ters çevrilecek ve terazinin hareketini gözlemlenecek ve açıklanacak. Aşağıda bu deney ile ilgili araştırmayı yaparken
+ağırlıklar da diğer kefeye konulacak. Terazinin ortasındaki denge noktasına bir ayna takılacak ve duvara yasnıma yapacak şekilde bir lazer konulacak.
+Bunu yapmamızdaki amaç terazideki hareketi lazerin aynadan bir zemine yansıması ile oluşan hareketi gözlemlemek ve kağıda aktarmaktır.
+Daha sonra kum saati ters çevrilecek ve terazinin yaptığı ölçüm ve de lazerin yaptığı hareketler gözlemlenecek ardından da açıklanacak. Aşağıda bu deney ile ilgili araştırmayı yaparken
 kullandığımız kaynakçalar belirtilmiştir.
 
 ## Kaynakçalar
